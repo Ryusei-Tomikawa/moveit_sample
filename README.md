@@ -1,2 +1,5 @@
 # moveit_sample
 ここにはあらゆるロボットのmoveit!によるサンプルプログラムがある
+seed_noid, open_manipulator, motomanのサンプロプログラム
+今後増やししていく予定
+move_groupとかjointなど毎回調べんとわからんからもうここに載せておく
